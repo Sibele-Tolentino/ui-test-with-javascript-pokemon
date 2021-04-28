@@ -1,0 +1,12 @@
+{
+    "eletrico":
+        {
+            "pikashu": "Pikashu",
+            "raichu": "Raichu"
+        },
+    "fogo":
+        {
+            "charmander": "Charmander",
+            "charmeleon": "Charmeleon"
+        }
+}
